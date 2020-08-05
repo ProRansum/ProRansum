@@ -1,4 +1,4 @@
-### Hi there! <img align='right' src="https://github-readme-stats.vercel.app/api?username=ProRansum&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true" width=460>
+### Hi there! <img align='right' src="https://github-readme-stats.vercel.app/api?username=ProRansum&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=monokai&show_icons=true" width=460>
 
 I'm a gratuate in computer science a.s. and work full-time for [Amazon](https://aws.amazon.com/).
 
